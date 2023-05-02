@@ -1,8 +1,6 @@
 ---
-id: entities-and-queries
-sidebar_position: 4
-sidebar_label: Channels
-title: Entities & Sample Queries
+id: channels
+title: HOPR Subgraph - Channels Entities & Sample Qeuries
 ---
 
 ## HOPR Channels (`monte_rosa` release) - Entities

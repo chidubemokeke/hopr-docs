@@ -1,8 +1,6 @@
 ---
-id: entities-and-queries
-sidebar_position: 6
-sidebar_label: All Seasons
-title: Entities & Sample Queries
+id: all-seasons
+title: HOPR Subgraph - All Seasons Entities & Sample Qeuries
 ---
 
 ## All Seasons Entities
